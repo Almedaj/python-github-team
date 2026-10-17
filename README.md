@@ -6,12 +6,7 @@ A simple Python program that displays greetings
 and lists our team members.
 
 ## Team Members
-- 
-- 
--
--  
-- 
-- Almedaj
+- Oreoluwa Sanya
 
 ## Project Structure
 python-github-team/
